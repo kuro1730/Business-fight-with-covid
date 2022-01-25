@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1589537640 source:c:\users\jao\documents\code nub\project2\main.cpp
+	<iostream>
+	<conio.h>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<exception>
+	"functionpixel.h"
+	"ll.h"
+	"special_workman.h"
+	"boss.h"
+	"item.h"
+
+1589515289 c:\users\jao\documents\code nub\project2\functionpixel.h
+	<iostream>
+	<cstdlib>
+	"color.h"
+	"pixel.h"
+
+1588447606 c:\users\jao\documents\code nub\project2\color.h
+	<windows.h>
+
+1589386149 c:\users\jao\documents\code nub\project2\pixel.h
+	<iostream>
+	<cstdlib>
+	"color.h"
+
+1589519764 c:\users\jao\documents\code nub\project2\ll.h
+	"workman.h"
+
+1589540339 c:\users\jao\documents\code nub\project2\workman.h
+	"material.h"
+	"space.h"
+
+1589363204 c:\users\jao\documents\code nub\project2\material.h
+	<iostream>
+
+1589427279 c:\users\jao\documents\code nub\project2\space.h
+
+1589521364 c:\users\jao\documents\code nub\project2\special_workman.h
+	"workman.h"
+
+1589540238 c:\users\jao\documents\code nub\project2\boss.h
+
+1589134478 c:\users\jao\documents\code nub\project2\item.h
+
+1589515465 source:c:\users\jao\documents\code nub\project2\test.cpp
+	<cstdio>
+	<iostream>
+	"functionpixel.h"
+
